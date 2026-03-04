@@ -235,7 +235,7 @@ _______________________________________________________________________________
 
 - Gasto total × Cancelación
 
-![[Visualización](/graficos/Visualizacion_CancelacionVSGastosTotales.png)
+![Visualización](/graficos/Visualizacion_CancelacionVSGastosTotales.png)
 
 🔍 Comparación general
     - Existe una relación inversa entre churn y cargos totales: los clientes con menor gasto acumulado son más propensos a cancelar.
@@ -251,7 +251,7 @@ _____________________________________________________________________________
 
 1. Correlación entre variables numericas
 
-![[Visualización](/graficos/Visualizacion_CorrelacionVariablesNumericas.png)
+![Visualización](/graficos/Visualizacion_CorrelacionVariablesNumericas.png)
 
  **Resultados de la matriz de correlación (variables numericas)**
 - tiempo_contrato: correlación negativa moderada con Churn (-0.35).
